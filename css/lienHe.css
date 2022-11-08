@@ -1,0 +1,18 @@
+header
+{
+
+}
+
+#header_top
+{
+    
+}
+#header_bottom {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.header-link{
+    color: black;
+    padding: 0 3%;
+}

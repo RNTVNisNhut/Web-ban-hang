@@ -1,0 +1,32 @@
+header
+{
+
+}
+
+#header_top
+{
+    
+}
+#header_bottom {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.header-link{
+    color: black;
+    padding: 0 3%;
+}
+
+
+
+
+
+.element{
+    border: 3px #ccc solid;
+    width: 250px;
+    height: 100px;
+}
+#main-element{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,172 @@
+header
+{
+    height: 195px;
+    background-color: #333333;
+    color: #c89979;
+    
+    
+}
+#header-top-bonus
+{
+    height: 40px;
+    padding: 0 71px;
+    color: white;
+}
+#header_top
+{
+    width: 1230px;
+    height: 98px;
+    justify-content: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    width: 100%;
+}
+#header-top-img
+{
+    width: 220px;
+    text-align: end;
+}
+#header-top-input
+{
+    height: 40px;
+    width: 390;
+    border-bottom-left-radius: 6px;
+    border: 0;
+    padding: 0;
+    margin-left: 120px;
+}
+#header-top-button
+{
+    height: 40px;
+    width: 70px;
+    border-top-right-radius: 5px;
+    border: 0;
+    padding: 0;
+    border-left: 20px;
+}
+#header_bottom {
+    height: 51px;
+    display: flex;
+    justify-content: center;
+}
+.header-link{
+    color: aliceblue;
+    font-family: "Roboto",sans-serif;
+    padding: 0 1.5%;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 550;
+    font-size: 13px;
+}
+.header-link:hover{
+    color: #c89979;
+    text-decoration: underline auto;
+    margin-bottom: 4px;
+}
+
+   /* *** Main *** */
+main
+{
+
+}
+                                    /* *** Slider *** */
+#slider{
+    height: 600px;
+}
+#slider-main
+{
+    position: relative;
+}
+.slider-main-content{
+    position: absolute;
+    top: 29%;
+    left: 15%;
+    color: burlywood;
+    width: 610px;
+}
+#slider-img{
+    height:100%;
+    object-fit: contain;
+}
+
+                                    /* *** Trend *** */
+#trend
+{
+
+}
+
+                                    /* *** Product *** */
+#product
+{
+
+}
+            /* *** Special-product *** */
+#special-product
+{
+
+}
+#special-product-top
+{
+    text-align: center;
+}
+#special-product-bottom
+{
+    text-align: center;
+}
+            /* *** Demo-product *** */
+#demo-product
+{
+
+}
+#trend
+{
+
+}
+            /* *** Some-product *** */
+#some-product
+{
+
+}
+#some-product-main
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.some-product-main-each
+{
+
+}
+.some-product-main-each-img
+{
+ margin: 30px;
+}
+                                    /* *** Blog *** */
+#blog
+{
+
+}
+#blog-main
+{
+
+}
+#blog-main-top
+{
+
+}
+#blog-main-bottom
+{
+
+}
+                                    /* *** Subcribe *** */
+#subscribe
+{
+
+}
+
+    /* *** Footer *** */
+footer
+{
+    color:#c89979;
+    background-color: #333333;
+}
